@@ -1,6 +1,5 @@
-==========================================================
-Portugues-Br | Sobre
-==========================================================
+# Portugues-Br | Sobre
+
 
 Olá, sou o José 👋
 
@@ -51,9 +50,9 @@ Construindo soluções para operações do mundo real
 - Streaming
 - Produção de Eventos
 
-==========================================================
-English | About
-==========================================================
+
+# English | About
+
 # Hi, I'm Jose 👋
 
 🎛️ Sound & Lighting Technician
